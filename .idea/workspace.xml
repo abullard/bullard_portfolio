@@ -5,8 +5,102 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653d8f68-79cb-4968-b836-b47cfc6d65b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/posts/Gameboy-advanced-study/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_gatsby/slices/_gatsby-scripts-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-ebc2e146f6a0b61f251b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-ebc2e146f6a0b61f251b.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-ebc2e146f6a0b61f251b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/code-block-examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons-86bad097202866a3e0a3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons-86bad097202866a3e0a3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-5b17ea0c8d34d7b9313a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-blog-query-tsx-5b17ea0c8d34d7b9313a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-8506c06f9152efa3c3c3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-homepage-query-tsx-8506c06f9152efa3c3c3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-content-file-path-content-pages-about-index-mdx-429c20fce172880e3879.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-content-file-path-content-pages-about-index-mdx-429c20fce172880e3879.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-code-block-examples-index-mdx-cfe88d2418ef81900ec4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-code-block-examples-index-mdx-cfe88d2418ef81900ec4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-markdown-reference-index-mdx-c1eae310410fc2fc9ed0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-markdown-reference-index-mdx-c1eae310410fc2fc9ed0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-normal-text-index-mdx-596d9450c90199cc4739.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-normal-text-index-mdx-596d9450c90199cc4739.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-with-images-index-mdx-ce314f44003a207cd7e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-content-file-path-content-posts-with-images-index-mdx-ce314f44003a207cd7e3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-60de7fd65f157c1212f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-60de7fd65f157c1212f6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-8fac98c5e995bb93bb36.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-8fac98c5e995bb93bb36.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-tsx-c214d71a1c0e5db555c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-tsx-c214d71a1c0e5db555c4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/framework-fa9c55ee9acdc7466f10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/framework-fa9c55ee9acdc7466f10.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/framework-fa9c55ee9acdc7466f10.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/markdown-reference/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/normal-text-override/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/about/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/app-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/blog/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/code-block-examples/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/gameboy-advanced-study/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/markdown-reference/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/normal-text-override/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/sq/d/2421966660.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/sq/d/2744905544.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/sq/d/3090400250.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/tags/code/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/tags/markdown/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/tags/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/tags/tutorial/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/with-images/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/rss.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap-0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/1eb792ef1699b9f03c965746548d5a9a/18e3b/potions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/1eb792ef1699b9f03c965746548d5a9a/46946/potions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/1eb792ef1699b9f03c965746548d5a9a/55489/potions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/1eb792ef1699b9f03c965746548d5a9a/60e21/potions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/1eb792ef1699b9f03c965746548d5a9a/69b48/potions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/1eb792ef1699b9f03c965746548d5a9a/bb9a8/potions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/b34b67c7644e05995fdb4a9349ca9a0f/a6c62/defence-against-the-dark-arts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/code/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/markdown/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tutorial/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-1eba1563e7ffbf44ae89.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-1eba1563e7ffbf44ae89.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/with-images/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown-atomics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown-sandbox-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown-ww-atomics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown-ww-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/debug/partytown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/partytown-atomics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/partytown-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/partytown-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/~partytown/partytown.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +149,7 @@
       <updated>1708810532523</updated>
       <workItem from="1708810533560" duration="754000" />
       <workItem from="1708811684187" duration="3733000" />
-      <workItem from="1708968422807" duration="1903000" />
+      <workItem from="1708968422807" duration="2235000" />
     </task>
     <servers />
   </component>
