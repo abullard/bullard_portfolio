@@ -8,7 +8,7 @@ export const Photo = () => {
 }
 
 const Circle = styled.img`
-  border-radius: 150px;
+  border-radius: 60px 60px 60px 15px;
   height: 15rem;
   width: 15rem;
 `;
