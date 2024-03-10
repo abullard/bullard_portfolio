@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653d8f68-79cb-4968-b836-b47cfc6d65b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/resume/pdfViewer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/resume/resume.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/pages/resume/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/resume/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/pages/resume/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +52,11 @@
       <recent name="$PROJECT_DIR$/content/pages/resume" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/components/resume" />
       <recent name="$PROJECT_DIR$/content/pages/resume" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/components/index" />
-      <recent name="$PROJECT_DIR$/src/@lekoarts/gatsby-theme-minimal-blog/texts" />
-      <recent name="$PROJECT_DIR$/content/posts/archivedForReference" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +71,7 @@
       <workItem from="1708811684187" duration="3733000" />
       <workItem from="1708968422807" duration="3097000" />
       <workItem from="1709157653148" duration="1940000" />
-      <workItem from="1710103857782" duration="1094000" />
+      <workItem from="1710103857782" duration="1613000" />
     </task>
     <servers />
   </component>
