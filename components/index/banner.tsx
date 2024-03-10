@@ -13,14 +13,14 @@ export const Banner = () => {
                     shortly after starting high school and has turned into a symbiosis of work and play.
                 </p>
                 <p>
-                    Currently, I'm a software consultant at <i>Lean TECHniques</i>, where I'm doubly focused on
+                    Currently, I'm a software consultant at <i>Lean TECHniques</i>, where my dual focus is
                     contributing through others, while maintaining a high throughput of software delivery. I take great
                     pride in coaching both junior and senior developers, navigating them through the intricacies of
                     modern web development practices.
                 </p>
                 <p>
-                    Feel free to read at your leisure! This is brain dump of anything I feel is important enough.
-                    I grounded in expertise and driven by curiosity.
+                    This will always be a brain dump so feel free to read at your leisure. I hope my documentation,
+                    grounded in professionalism and driven by light hearted curiosity, adds some brightness to today!
                 </p>
             </div>
         </TextContainer>

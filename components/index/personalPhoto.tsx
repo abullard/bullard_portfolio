@@ -10,7 +10,7 @@ export const PersonalPhoto = () => {
 }
 
 const ImageContainer = styled.img`
-  border-radius: 60px 60px 60px 15px;
+  border-radius: 50px 50px 50px 12px;
   min-height: 15rem;
   min-width: 15rem;
   max-height: 15rem;
@@ -23,7 +23,7 @@ const ImageBorder = styled.div`
   min-width: 17rem;
   max-height: 17rem;
   max-width: 17rem;
-  border-radius: 60px 60px 60px 15px;
+  border-radius: 50px 50px 50px 12px;
   display: flex;
   justify-content: center;
   align-items: center;
