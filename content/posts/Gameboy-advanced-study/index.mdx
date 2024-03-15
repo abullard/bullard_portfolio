@@ -8,7 +8,14 @@ tags:
   - Pixel art
 ---
 
-### Setting up a development environment
+Table of Contents
+* [Setting up a development environment](#section1)
+* [GRIT & Aseprite pixel art workflow](#section2)
+* [VDraw, VBlank, HDraw, and HBlank](#section3)
+* [A quick note on hexadecimal notation](#section4)
+* [Fixed point notation](#section5)
+
+<h1 id={'section1'}>Setting up a development environment</h1>
 
 Standing up a development env for building GBA ROMs isn't the most straight forward task ever, but it's also not
 super complicated. It took me about 6 hours to go from nothing, to an entire build pipeline that launches my compiled
@@ -20,7 +27,7 @@ I've already documented these steps in a [README](https://github.com/abullard/gb
 on my _gba_study_ repo. Hopefully these help you get situated!
 
 ---
-### GRIT & Aseprite pixel art workflow
+<h1 id={'section2'}> GRIT & Aseprite pixel art workflow</h1>
 
 GBA Raster Image Transmogrifier ([GRIT](https://www.coranac.com/man/grit/html/grit.htm#sec-intro)) is a Command Line
 Interface (CLI) tool to convert `png/jpeg/bmp/etc` files into various data formats to load into your ROM.
@@ -60,7 +67,7 @@ for more detailed info
 TODO
 
 ---
-### VDraw, VBlank, HDraw, and HBlank
+<h1 id={'section3'}>VDraw, VBlank, HDraw, and HBlank</h1>
 There's no physics clock on the GBA.
 
 So engines like Unity or Godot using a hardware clock wrapper like `time.deltaTime()`, won't work for us.
@@ -108,7 +115,7 @@ Now you can skip time, _t_, in your project motion equation and just rely on exe
 times a second. It just so happens that this'll occur during VBlank, which happens after each screen refresh (:
 
 ---
-### A quick note on hexadecimal notation
+<h1 id={'section4'}>A quick note on hexadecimal notation</h1>
 
 `0x04AE` expands into `0000 0100 1010 1110`. An explanation with a table:
 
@@ -154,7 +161,7 @@ After execution of the bitwise OR ops in the above code block, `REGISTER_DISPLAY
 Spend some time understanding this hexadecimal format and the bitwise OR operator starting on line 7.
 
 ---
-### Fixed point notation
+<h1 id={'section5'}>Fixed point notation</h1>
 
 What if I told you that `10101100 = 10.75` in binary? This isn't an accurate statement, of course. But we can _pretend_ it
 is for arithmetic purposes.
