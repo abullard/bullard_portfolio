@@ -25,8 +25,7 @@ export const Banner = () => {
             </p>
             <p>
                 This will always be a brain dump so feel free to read at your leisure. I hope my documentation,
-                grounded in professionalism and driven by light hearted curiosity, adds some brightness to
-                today!
+                grounded in professionalism and driven by light hearted curiosity, adds some brightness to your day!
             </p>
         </>
 
