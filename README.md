@@ -4,5 +4,5 @@ Built with the [Gatsby Starter: Minimal Blog](https://github.com/LekoArts/gatsby
 
 Deployed on [Netlify](https://www.netlify.com/).
 
-* Build project locally with `gatsby develop`
+* Run project locally with `npm start`
 * Build production code with `gatsby build`
