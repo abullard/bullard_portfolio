@@ -2,27 +2,38 @@ import * as React from "react"
 import styled from "styled-components";
 
 export const AboutMeImageGridTop = () => {
-    return (
-      <Grid>
-        <ImageContainer src={"../personal_photos/about/austin_di_dani.jpg"} alt={"Part of my family!"}/>
-        <ImageContainer src={"../personal_photos/about/almond_filbert.jpg"} alt={"Diandra and I in New York"}/>
-        <ImageContainer src={"../personal_photos/about/austin_cali_nature.jpg"} alt={"Me in nature!"}/>
-        <ImageContainer src={"../personal_photos/about/austin_di_japanese_shrine.jpg"} alt={"Diandra and I in Japan"}/>
-      </Grid>
-    )
+  const photos = [
+    "austin_di_dani.jpg",
+    "almond_filbert.jpg",
+    "austin_di_japanese_shrine.jpg"
+  ];
+
+  const alts = [
+    'Diandra and I in downtown Des Moines, IA',
+    'Our cats, Almond and Filbert',
+    'Diandra and I in Japan'
+  ];
+
+  return (
+    <Grid>
+      {photos && photos.map((x, i) => 
+        (<ImageContainer src={`../personal_photos/about/${x}`} alt={alts[i]} />))}
+    </Grid>
+  )
 }
 
-const Grid = styled.div`
+export const Grid = styled.div`
   gap: 1rem;
   display: flex;
+  justify-content: space-between;
 `;
 
-const ImageContainer = styled.img`
-  border-radius: 50px;
-  min-height: 13rem;
-  min-width: 13rem;
-  max-height: 13rem;
-  max-width: 13rem;
+export const ImageContainer = styled.img`
+  border-radius: 10px;
+  min-height: 15rem;
+  min-width: 20rem;
+  max-height: 15rem;
+  max-width: 20rem;
   
   @media (max-width: 768px) {
     img {
