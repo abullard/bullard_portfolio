@@ -16,7 +16,7 @@ export const AboutMeImageGridTop = () => {
 
   return (
     <Grid>
-      {photos && photos.map((x, i) => 
+      {photos && photos.map((x, i) =>
         (<ImageContainer src={`../personal_photos/about/${x}`} alt={alts[i]} />))}
     </Grid>
   )
@@ -26,6 +26,15 @@ export const Grid = styled.div`
   gap: 1rem;
   display: flex;
   justify-content: space-between;
+
+  @media (max-width: 850px) {
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    -webkit-scrollbar {
+      display: none;
+    }
+  }
 `;
 
 export const ImageContainer = styled.img`
