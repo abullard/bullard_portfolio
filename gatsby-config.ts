@@ -8,11 +8,11 @@ const config: GatsbyConfig = {
         // You can overwrite values here that are used for the SEO component
         // You can also add new values here to query them like usual
         // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-        siteTitle: `Bullard - Portfolio`,
+        siteTitle: `Instruction Set: human`,
         siteTitleAlt: `Austin Bullard`,
-        siteHeadline: `Austin Bullard`,
+        siteHeadline: `An ongoing patch for the softest machine.`,
         siteUrl: `https://abullard.netlify.com`,
-        siteDescription: `My brain dump. Mostly tech and maybe some soul searching.`,
+        siteDescription: `My brain dump. Tech, tangled thoughts, and Schrödinger’s meaning of life.`,
         siteImage: `bullard.jpg`,
         siteLanguage: `en`,
         author: `@lekoarts_de`,
@@ -58,9 +58,9 @@ const config: GatsbyConfig = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Bullard - Portfolio`,
+                name: `Instruction set: human`,
                 short_name: `Austin Bullard`,
-                description: `My brain dump. Mostly tech and maybe some soul searching.`,
+                description: `My brain dump. Tech, tangled thoughts, and Schrödinger’s meaning of life.`,
                 start_url: `/`,
                 background_color: `#fff`,
                 // This will impact how browsers show your PWA/website
